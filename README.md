@@ -1,6 +1,6 @@
 # Amazon-Test-Cypress
 
-<img src="https://i.ibb.co/T4Gq5Hp/amazon-cypress.png" style="width: 100%; height: auto;" />
+<img src="https://i.ibb.co/gwwvsC4/amazon-cypress.png" style="width: 50%; height: auto;" />
 
 A test script written in Cypress.io to automate the process of searching for and purchasing a Nespresso coffee machine from Amazon.com.
 
